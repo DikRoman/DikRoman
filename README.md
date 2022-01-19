@@ -7,7 +7,8 @@
 ### Languages and Tools:
 
 ### Tableau:
-link: https://public.tableau.com/app/profile/dik.roman#!/
+My Dashboards
+- link: https://public.tableau.com/app/profile/dik.roman#!/
 ### Connect with me:
 - VK: https://vk.com/id249902766
 - LinkedIn:https://www.linkedin.com/in/dikroman/
