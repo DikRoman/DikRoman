@@ -5,7 +5,12 @@
 
 
 ### Languages and Tools:
+- Visualization: Tableau, Power Point presentations, Excel charts and graphs, Plotly Python Graphing Library;
+- SQL at an intermediate level: sorting (ORDER BY), joins (JOIN, UNION), aggregate functions (GROUP BY), subqueries;
+- Python at beginner level + libraries: pandas, numpy.
+- MS Excel at upper-intermediate level (SUMIFS, VLOOKUP, INDEX/MATCH etc., Pivot Table, charting) and other MS Office programs.
 
+Translated with www.DeepL.com/Translator (free version)
 ### Tableau:
 My Dashboards
 - link: https://public.tableau.com/app/profile/dik.roman#!/
