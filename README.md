@@ -1,9 +1,11 @@
-### Header
+## Hi there , I'm Roman!
 
-## About me
+## About me:
 
 
 
-## Languages and Tools
+## Languages and Tools:
 
-## Tableau
+## Tableau:
+
+### Connect with me:
